@@ -64,7 +64,7 @@ These Steps (4 to 16)needs to be executed mandatorily to simulate the thesis wor
 -- After observing and evaluating all the models taking data from model.csv , observations are entered into model-evaluation.csv 
 -- The best performing model with optimum hyperparameters are chosen for ensemble 
 
--- The trained models can be downloaded from https://drive.google.com/file/d/1iNSKZXWS8UoXGwcFMaIsK3_JzzERTLiD/view?usp=sharing and kept under Models folder in same directory as the code
+-- The trained models can be downloaded from https://drive.google.com/u/1/uc?export=download&confirm=XFdQ&id=1iNSKZXWS8UoXGwcFMaIsK3_JzzERTLiD and kept under Models folder in same directory as the code
 
 12>ensemble-infer-valid.ipynb is run to get inferred predicted change of price from bert-capsule model and tabnet model for data present in ensemble.csv to form
    ensemble-linear-features.csv contaning predictions from both models as well as actual change of price for a given date
