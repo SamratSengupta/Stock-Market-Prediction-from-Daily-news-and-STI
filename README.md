@@ -1,8 +1,5 @@
-The current study is associated with the use of deep learning models to predict the intraday stock price changes of the Dow Jones Industrial Average (DJIA) stock market index with the help of daily news feed from Reddit and stock technical indicators from Dow Jones.  
-
-The thesis code execution is given in below order
-
-
+The current project is associated with the use of deep learning architectures to predict the intraday stock price changes of the Dow Jones Industrial Average (DJIA) with the help of daily news feed from Reddit and stock technical indicators.CNN-LSTM and LSTM models are used as baseline and Bert-capsule and tabnet are implmented as proposed models.Prediction weight based ensembling of proposed models are done with the help of a linear model to yield final output. The papers and presentation are submitted TO L.J.M.U 
+The sequence project code execution is given below .
 
 # Stock-Market-Prediction-from-Daily-news-and-STI
 
