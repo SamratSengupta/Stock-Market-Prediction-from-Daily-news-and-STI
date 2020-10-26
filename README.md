@@ -1,24 +1,4 @@
-Forecasting stock prices has been a challenging problem, and it has attracted
-many researchers in the areas of the economic market, financial analysis, and
-computer science. The current study is associated with the use of deep learning
-models to predict the intraday stock price changes of the Dow Jones Industrial
-Average (DJIA) stock market index with the help of daily news feed from Reddit
-and stock technical indicators. In recent years, Convolution neural network
-(CNN), Recurrent neural network (RNN), and their variants are applied
-successfully in this domain, the most prominent being a jointed Recurrent
-convolution neural network (RCNN) architecture. Here, more advanced models
-like Capsule net and Transformers (which have been proven very successful in
-sentiment analysis) are studied for analyzing the impact of global events in form
-of news. The premise of using these architectures is based on the fact that the
-transformer Encoder extracts the deep semantic features of the news headlines
-while capsule network captures the structural relationship of the texts to derive
-meaningful features. Another relatively new architecture Tab-net which uses
-sequential attention to decide feature importance is explored for processing stock
-technical indicators. Not only Tab-net captures sequential features like Long
-short-term memory (LSTM) but also uses attention mechanisms to deduce
-insights from structured tabular data. Finally, an ensemble of Tab-net and Capsule
-Transformer variants is carried out to project the overall impact of the daily news
-feed as well as exchange Technical indicators on stock price change.
+The current study is associated with the use of deep learning models to predict the intraday stock price changes of the Dow Jones Industrial Average (DJIA) stock market index with the help of daily news feed from Reddit and stock technical indicators from Dow Jones.  
 
 The thesis code execution is given in below order
 
